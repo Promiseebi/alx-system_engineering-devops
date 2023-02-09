@@ -1,1 +1,1 @@
-My shello basics bash terminal learning task
+Shell basics bash terminal task
